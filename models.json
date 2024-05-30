@@ -104,5 +104,8 @@
 			"https://huggingface.co/TheBloke/deepseek-coder-6.7B-base-GGUF/resolve/main/deepseek-coder-6.7b-base.Q6_K.gguf"
 		],
 		"sha256": "e3bab613303f5f356b219900384693a3860f283fa95e03ebbc0209970d705643"
+	},
+	{
+		"name": "Codestral-22B"
 	}
 ]
